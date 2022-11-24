@@ -34,9 +34,13 @@ public class GUI {
         panel.add(label);
 
         final JTextField atomicTimeTextField = new JTextField(24);
+
         atomicTimeTextField.setEditable(false);
+
         atomicTimeTextField.setBackground(Color.WHITE);
+
         panel.add(label);
+
         panel.add(atomicTimeTextField);
 
         // Add the panel to the frame
