@@ -5,6 +5,12 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Date;
 
+/*
+* Creates and updates GUI
+*
+* @Author Harvey K
+*
+ */
 
 public class GUI {
 

@@ -1,5 +1,11 @@
 package com.company;
 
+/*
+* Gets current time
+*
+* @author Harvey K
+*
+ */
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
